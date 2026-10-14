@@ -1,3 +1,11 @@
+# Moved to bio-evidence
+
+This tool is maintained as [`bio_evidence.gene_aliases`](https://github.com/aarnavbhat23/bio-evidence/blob/main/src/bio_evidence/gene_aliases.py) in [bio-evidence](https://github.com/aarnavbhat23/bio-evidence). The package has one API, one test suite and worked public-data cases.
+
+This repository is archived to keep prior commits and results inspectable. Its original standalone documentation is below.
+
+---
+
 # Gene Alias Abstention
 
 Resolve gene aliases conservatively and abstain when a supplied dictionary has multiple possible identifiers.
